@@ -1,1 +1,1 @@
-web: gunicorn chats.wsgi 
+web: gunicorn chats:wsgi 
